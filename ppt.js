@@ -1,5 +1,5 @@
 //Genera un número aleatorio entre un rango de enteros
-//Holi, això és un tutorial xD
+//Segon commit
 
 function patito(minimo, maximo)
 {
