@@ -1,4 +1,5 @@
 //Genera un número aleatorio entre un rango de enteros
+//Holi, això és un tutorial xD
 
 function patito(minimo, maximo)
 {
